@@ -1,5 +1,4 @@
-To my opinion we should keep Hawkeye as plain as possible. I will link surveys to this list and it is a better idea to click the link, rather than pasting the abstract to list.
-
+Hawkeye should be as plain as possible.
 
 # Useful Lectures
 
@@ -14,6 +13,7 @@ To my opinion we should keep Hawkeye as plain as possible. I will link surveys t
 
 # Blogs & Reading Lists
 [Systems Approach](https://systemsapproach.substack.com/) \
+[P4 Blog](https://p4.org/blog/) \
 [The Programmable Data Plane Reading List](https://programmabledataplane.review/) \
 [Reproducing Network Research](https://reproducingnetworkresearch.wordpress.com/) 
 
@@ -26,6 +26,9 @@ To my opinion we should keep Hawkeye as plain as possible. I will link surveys t
 
 # Forums & Community Support
 [P4 Forum](https://forum.p4.org/)
+[Networking Stackexchange](https://networkengineering.stackexchange.com/)
+
+https://networkengineering.stackexchange.com/
 
 # Podcasts
 [OvS Orbit](https://ovsorbit.org/)\
