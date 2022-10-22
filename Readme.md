@@ -15,7 +15,10 @@ Hawkeye should be as plain as possible.
 [Systems Approach](https://systemsapproach.substack.com/) \
 [P4 Blog](https://p4.org/blog/) \
 [The Programmable Data Plane Reading List](https://programmabledataplane.review/) \
-[Reproducing Network Research](https://reproducingnetworkresearch.wordpress.com/) 
+[Reproducing Network Research](https://reproducingnetworkresearch.wordpress.com/) \
+[Network Softwarization](http://rboutaba.cs.uwaterloo.ca/Courses/CS798-002-W21/readinglist.html) Looks outdated
+
+
 
 
 # Books
