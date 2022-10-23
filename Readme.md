@@ -11,9 +11,11 @@ Hawkeye should be as plain as possible.
 
 
 
-# Blogs & Reading Lists
+# Blogs 
+[Networking FUndamentals by ipSpace.net](https://blog.ipspace.net/tag/networking-fundamentals.html) \
 [Systems Approach](https://systemsapproach.substack.com/) \
 [P4 Blog](https://p4.org/blog/) \
+# Reading Lists
 [The Programmable Data Plane Reading List](https://programmabledataplane.review/) \
 [Reproducing Network Research](https://reproducingnetworkresearch.wordpress.com/) \
 [Network Softwarization](http://rboutaba.cs.uwaterloo.ca/Courses/CS798-002-W21/readinglist.html) Looks outdated
