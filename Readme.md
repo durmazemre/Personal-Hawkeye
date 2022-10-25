@@ -36,7 +36,7 @@ Hawkeye should be as plain as possible.
 # Forums & Community Support
 [P4 Forum](https://forum.p4.org/) \
 [Networking Stackexchange](https://networkengineering.stackexchange.com/) \
-[Intel Communities](https://community.intel.com/)
+[Intel Communities](https://community.intel.com/) Looks irrelevant!
 
 
 
@@ -89,11 +89,6 @@ Comments:
 Comments:    
 
 
-[comment]: <> (in  the output file unless you use it in)
-[//]: <> (in  the output file unless you use it in)
-[External links](http://example.com)\
-[Internal links](./path/to/file.md)\
-[Fragments in Links](./path/to/file.md#my-header)
 
 
 
