@@ -27,7 +27,10 @@ Hawkeye should be as plain as possible.
 # Books
 [Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html)\
 [5G Mobile Networks: A Systems Approach](https://5g.systemsapproach.org/)\
-[Software-Defined Networks: A Systems Approach ](https://sdn.systemsapproach.org/index.html) 
+[Software-Defined Networks: A Systems Approach](https://sdn.systemsapproach.org/index.html) \
+[Computer Networking: A Top-Down Approach ](https://gaia.cs.umass.edu/kurose_ross/lectures.php)
+
+
 
 
 # Forums & Community Support
