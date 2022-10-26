@@ -15,7 +15,13 @@ Hawkeye should be as plain as possible.
 [Networking Fundamentals by ipSpace.net](https://blog.ipspace.net/tag/networking-fundamentals.html) \
 [Systems Approach](https://systemsapproach.substack.com/) \
 [Systems Approach Blog Archive](https://www.systemsapproach.org/blog-archive) \
+[Mario's Blog](http://blog.baldi.info/) \
+[Silvano Gai's Blog](https://silvanogai.github.io/index.html) \
 [P4 Blog](https://p4.org/blog/) 
+
+
+
+
 # Reading Lists
 [The Programmable Data Plane Reading List](https://programmabledataplane.review/) \
 [Reproducing Network Research](https://reproducingnetworkresearch.wordpress.com/) \
