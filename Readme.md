@@ -54,7 +54,7 @@ Hawkeye should be as plain as possible.
 [ONF Archive](https://opennetworking.org/archives-events/)
 
 # Specifications
-[O-RAN](https://www.etsi.org/deliver/etsi_ts/103800_103899/103859/07.00.02_60/ts_103859v070002p.pdf)
+[O-RAN Fronthaul](https://www.etsi.org/deliver/etsi_ts/103800_103899/103859/07.00.02_60/ts_103859v070002p.pdf)
 
 
 # Unclassified
