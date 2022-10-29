@@ -35,7 +35,7 @@ Hawkeye should be as plain as possible.
 [Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html)\
 [5G Mobile Networks: A Systems Approach](https://5g.systemsapproach.org/)\
 [TCP Congestion Control: A Systems Approach](https://tcpcc.systemsapproach.org/) Not related, but I like the series\
-[Edge Cloud Operations: A Systems Approach](https://ops.systemsapproach.org/monitor.html)\
+[Edge Cloud Operations: A Systems Approach](https://ops.systemsapproach.org/monitor.html)\
 [Software-Defined Networks: A Systems Approach](https://sdn.systemsapproach.org/index.html) 
 
 
