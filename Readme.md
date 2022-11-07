@@ -56,9 +56,6 @@ Hawkeye should be as plain as possible.
 # Specifications
 [O-RAN Fronthaul](https://www.etsi.org/deliver/etsi_ts/103800_103899/103859/07.00.02_60/ts_103859v070002p.pdf)
 
-# Youtube Channels
-[RIMEDO Labs Playlist](https://www.youtube.com/c/RIMEDOLabs/playlists)
-
 
 # Unclassified
 Classify them one day! 
