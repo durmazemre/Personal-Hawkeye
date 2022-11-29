@@ -2,11 +2,14 @@ Hawkeye should be as plain as possible.
 
 # Useful Lectures
 
+[Advanced Topics in Communication Networks Fall 2022](https://video.ethz.ch/lectures/d-itet/2022/autumn/227-0575-00L/78e56a5b-6473-4123-b4c2-b47328fa28a0.html) \
 [CS 536: Data Communication and Computer Networks (Fall 2022)](https://gitlab.com/purdue-cs536/fall-2022/public)\
 [CS 592: Programmable Data Planes for Self-Driving Networks (Fall 2021)](https://gitlab.com/purdue-cs592/fall-2021/public) \
 [CPSC 435/535, Building an Internet Router](https://yale-build-a-router.github.io/ ) \
 [P4 Lectures From OpenNPF](https://open-nfp.org/dataplanes-p4/ ) \
 [eBPF Lectures From OpenNPF](https://open-nfp.org/dataplanes-ebpf/) 
+
+
 
 
 
