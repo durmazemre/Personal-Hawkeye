@@ -1,5 +1,11 @@
 Hawkeye should be as plain as possible.
 
+
+# Projects
+
+[6G-RIC](https://6g-ric.de/) \
+[CampusOS](https://campus-os.io/ ) 
+
 # Useful Lectures
 
 [Advanced Topics in Communication Networks Fall 2022](https://video.ethz.ch/lectures/d-itet/2022/autumn/227-0575-00L/78e56a5b-6473-4123-b4c2-b47328fa28a0.html) \
