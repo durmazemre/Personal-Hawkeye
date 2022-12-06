@@ -8,7 +8,8 @@ Hawkeye should be as plain as possible.
 
 # Useful Lectures
 
-[Advanced Topics in Communication Networks Fall 2022](https://adv-net.ethz.ch/) \
+[Lecture - Advanced Topics in Communication Networks Fall 2022](https://adv-net.ethz.ch/) \
+[Exercise - Advanced Topics in Communication Networks Fall 2022](https://gitlab.ethz.ch/nsg/public/adv-net-2022-exercises#how-to-start) \
 [CS 536: Data Communication and Computer Networks (Fall 2022)](https://gitlab.com/purdue-cs536/fall-2022/public)\
 [CS 592: Programmable Data Planes for Self-Driving Networks (Fall 2021)](https://gitlab.com/purdue-cs592/fall-2021/public) \
 [CPSC 435/535, Building an Internet Router](https://yale-build-a-router.github.io/ ) \
