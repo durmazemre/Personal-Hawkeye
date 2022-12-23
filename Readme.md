@@ -70,7 +70,9 @@ Hawkeye should be as plain as possible.
 
 # Specifications
 [O-RAN SC Wiki](https://wiki.o-ran-sc.org/pages/viewpage.action?pageId=1179659) \
-[O-RAN Fronthaul](https://www.etsi.org/deliver/etsi_ts/103800_103899/103859/07.00.02_60/ts_103859v070002p.pdf)
+[O-RAN Spesifications](https://orandownloadsweb.azurewebsites.net/specifications)
+
+
 
 
 # Unclassified
