@@ -56,11 +56,6 @@ Hawkeye should be as plain as possible.
 
 
 
-
-# Podcasts
-[OvS Orbit](https://ovsorbit.org/)\
-[Neulich im Netz](https://www.neulich-im.net/)
-
 # Database of Presentations
 [ONF Archive](https://opennetworking.org/archives-events/) Good source to follow! 
 
