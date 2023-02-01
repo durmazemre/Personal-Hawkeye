@@ -23,6 +23,7 @@ Hawkeye should be as plain as possible.
 
 
 # Blogs 
+[ETSI Blogs](https://www.etsi.org/newsroom/blogs) \
 [Networking Fundamentals by ipSpace.net](https://blog.ipspace.net/tag/networking-fundamentals.html) \
 [Systems Approach](https://systemsapproach.substack.com/) \
 [Systems Approach Blog Archive](https://www.systemsapproach.org/blog-archive) \
