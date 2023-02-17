@@ -4,6 +4,7 @@ Hawkeye should be as plain as possible.
 # Projects
 
 [6G-RIC](https://6g-ric.de/) \
+[6G-life](https://6g-life.de/) \
 [CampusOS](https://campus-os.io/ ) 
 
 # Useful Lectures
