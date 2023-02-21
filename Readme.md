@@ -6,6 +6,8 @@ Hawkeye should be as plain as possible.
 [6G-RIC](https://6g-ric.de/) \
 [6G-life](https://6g-life.de/) \
 [CampusOS](https://campus-os.io/ ) 
+[AI4Mobile](https://www.ai4mobile.org/) 
+
 
 # Useful Lectures
 
