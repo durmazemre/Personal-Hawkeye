@@ -11,6 +11,8 @@ Hawkeye should be as plain as possible.
 
 # Useful Lectures
 
+
+[P4 Campus: P4 Applications For Campus Networks](https://p4campus.cs.princeton.edu/index.html) \
 [Lecture - Advanced Topics in Communication Networks Fall 2022](https://adv-net.ethz.ch/) \
 [Exercise - Advanced Topics in Communication Networks Fall 2022](https://gitlab.ethz.ch/nsg/public/adv-net-2022-exercises#how-to-start) \
 [Project - Advanced Topics in Communication Networks Fall 2022](https://gitlab.ethz.ch/nsg/public/adv-net-2022-project) \
