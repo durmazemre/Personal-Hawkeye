@@ -14,7 +14,7 @@ Hawkeye should be as plain as possible.
 
 
 [P4 Campus: P4 Applications For Campus Networks](https://p4campus.cs.princeton.edu/index.html) \
-[CS 422 ChatGPT Projects ](https://p4campus.cs.princeton.edu/index.html](https://gitlab.com/purdue-cs422/spring-2023/public/-/tree/main/projects) \
+[CS 422 ChatGPT Projects](https://gitlab.com/purdue-cs422/spring-2023/public/-/tree/main/projects) \
 [Lecture - Advanced Topics in Communication Networks Fall 2022](https://adv-net.ethz.ch/) \
 [Exercise - Advanced Topics in Communication Networks Fall 2022](https://gitlab.ethz.ch/nsg/public/adv-net-2022-exercises#how-to-start) \
 [Project - Advanced Topics in Communication Networks Fall 2022](https://gitlab.ethz.ch/nsg/public/adv-net-2022-project) \
